@@ -27,7 +27,7 @@ Inspired by NotebookLM, built to run entirely offline on your own hardware.
 ## Setup
 
 ```bash
-git clone <this-repo>
+git clone <StudyLLM>
 cd StudyLLM
 pip install -r requirements.txt
 streamlit run sysmain.py
