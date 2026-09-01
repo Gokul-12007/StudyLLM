@@ -1,0 +1,12 @@
+streamlit>=1.38
+pymupdf4llm>=0.0.17
+
+langchain-core>=1.6,<2
+langchain-classic>=1.0,<2
+langchain-text-splitters>=1.1,<2
+langchain-community>=0.4,<0.5
+langchain-ollama>=1.1,<2
+langchain-chroma>=1.1,<2
+
+rank_bm25>=0.2.2
+chromadb>=1.5
