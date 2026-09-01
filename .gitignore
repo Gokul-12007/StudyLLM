@@ -1,0 +1,7 @@
+study_materials/
+chroma_store/
+notebook.db
+__pycache__/
+*.pyc
+venv/
+.venv/
